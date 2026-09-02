@@ -1,4 +1,5 @@
 ;; types removed from current policy
+(type mosey_app)
 (type racoon)
 (type racoon_exec)
 (type mtp_exec)
